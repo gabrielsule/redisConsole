@@ -1,0 +1,11 @@
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\bin\Debug\netcoreapp2.2\RedisApp.deps.json
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\bin\Debug\netcoreapp2.2\RedisApp.runtimeconfig.json
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\bin\Debug\netcoreapp2.2\RedisApp.runtimeconfig.dev.json
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\bin\Debug\netcoreapp2.2\RedisApp.dll
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.csprojAssemblyReference.cache
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.csproj.CoreCompileInputs.cache
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.AssemblyInfoInputs.cache
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.AssemblyInfo.cs
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\bin\Debug\netcoreapp2.2\RedisApp.pdb
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.dll
+d:\Users\gabriel_sule\source\repos\RedisApp\RedisApp\obj\Debug\netcoreapp2.2\RedisApp.pdb
